@@ -1,7 +1,7 @@
 {
   "name": "formsy-react",
-  "version": "1.1.5",
-  "description": "A form input builder and validator for React",
+  "version": "1.2.0",
+  "description": "Forked. A form input builder and validator for React",
   "keywords": [
     "form",
     "forms",
@@ -16,13 +16,12 @@
     }
   },
   "license": "MIT",
-  "homepage": "https://github.com/formsy/formsy-react",
-  "bugs": "https://github.com/formsy/formsy-react/issues",
+  "bugs": "https://github.com/AkihiroTakamura/formsy-react/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/formsy/formsy-react.git"
+    "url": "https://github.com/AkihiroTakamura/formsy-react"
   },
-  "author": "Christian Alfoni",
+  "author": "Akihiro Takamura",
   "files": [
     "lib"
   ],
