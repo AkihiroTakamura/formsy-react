@@ -1,5 +1,5 @@
 {
-  "name": "formsy-react",
+  "name": "@akihirotakamura/formsy-react",
   "version": "1.2.0",
   "description": "Forked. A form input builder and validator for React",
   "keywords": [
